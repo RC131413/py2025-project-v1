@@ -36,4 +36,5 @@ class LightSensor(Sensor):
             new_value = max(self.night_min, min(self.night_max, new_value))
 
         self.last_value = round(new_value, 2)
+        self._notify_callbacks(self.last_value)
         return self.last_value

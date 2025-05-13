@@ -37,5 +37,5 @@ class HumiditySensor(Sensor):
 
         # Zapisz aktualną temperaturę na przyszłość
         self.last_temp = current_temp
-
+        self._notify_callbacks(self.last_value)
         return self.last_value
