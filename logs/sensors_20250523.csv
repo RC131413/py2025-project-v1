@@ -1,0 +1,1129 @@
+TIMESTAMP,SENSOR_ID,VALUE,UNIT,MESSAGE
+2025-05-23T15:19:02.044818,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8080...
+2025-05-23T15:19:02.045789,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T15:19:02.045789,SYSTEM,0.0,LOG,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T15:19:02.045789', 'value': 25.99, 'unit': '°C'} (próba 1)"
+2025-05-23T15:19:07.058324,SYSTEM,0.0,LOG,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:19:07.560689,SYSTEM,0.0,LOG,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:19:07.560689,T001,25.99,°C
+2025-05-23T15:19:07.560689,SYSTEM,0.0,LOG,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T15:19:07.560689', 'value': 61.12, 'unit': '%'} (próba 1)"
+2025-05-23T15:19:12.567141,SYSTEM,0.0,LOG,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:19:13.069691,SYSTEM,0.0,LOG,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:19:13.071307,H001,61.12,%
+2025-05-23T15:19:13.072185,SYSTEM,0.0,LOG,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T15:19:13.072185', 'value': 2911.55, 'unit': 'lx'} (próba 1)"
+2025-05-23T15:19:18.076701,SYSTEM,0.0,LOG,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:19:18.578785,SYSTEM,0.0,LOG,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:19:18.578785,L001,2911.55,lx
+2025-05-23T15:19:18.578785,SYSTEM,0.0,LOG,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T15:19:18.578785', 'value': 339.18, 'unit': 'AQI'} (próba 1)"
+2025-05-23T15:19:23.583110,SYSTEM,0.0,LOG,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:19:24.084941,SYSTEM,0.0,LOG,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:19:24.084941,AQ001,339.18,AQI
+2025-05-23T15:19:25.086915,SYSTEM,0.0,LOG,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T15:19:25.086915', 'value': 25.37, 'unit': '°C'} (próba 1)"
+2025-05-23T15:19:30.092151,SYSTEM,0.0,LOG,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:19:30.592805,SYSTEM,0.0,LOG,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:19:30.593761,T001,25.37,°C
+2025-05-23T15:19:30.594761,SYSTEM,0.0,LOG,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T15:19:30.594761', 'value': 61.92, 'unit': '%'} (próba 1)"
+2025-05-23T15:19:35.605384,SYSTEM,0.0,LOG,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:19:36.107238,SYSTEM,0.0,LOG,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:19:36.108195,H001,61.92,%
+2025-05-23T15:19:36.110195,SYSTEM,0.0,LOG,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T15:19:36.109193', 'value': 2945.22, 'unit': 'lx'} (próba 1)"
+2025-05-23T15:19:41.118217,SYSTEM,0.0,LOG,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:19:41.619321,SYSTEM,0.0,LOG,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:19:41.620337,L001,2945.22,lx
+2025-05-23T15:19:41.622321,SYSTEM,0.0,LOG,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T15:19:41.622321', 'value': 333.84, 'unit': 'AQI'} (próba 1)"
+2025-05-23T15:19:46.632698,SYSTEM,0.0,LOG,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:19:47.135152,SYSTEM,0.0,LOG,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:19:47.136108,AQ001,333.84,AQI
+2025-05-23T15:19:48.138731,SYSTEM,0.0,LOG,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T15:19:48.138731', 'value': 25.66, 'unit': '°C'} (próba 1)"
+2025-05-23T15:19:53.141632,SYSTEM,0.0,LOG,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:19:53.643717,SYSTEM,0.0,LOG,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:19:53.643717,T001,25.66,°C
+2025-05-23T15:19:53.643717,SYSTEM,0.0,LOG,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T15:19:53.643717', 'value': 61.69, 'unit': '%'} (próba 1)"
+2025-05-23T15:19:58.646408,SYSTEM,0.0,LOG,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:19:59.148351,SYSTEM,0.0,LOG,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:19:59.149348,H001,61.69,%
+2025-05-23T15:19:59.150348,SYSTEM,0.0,LOG,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T15:19:59.150348', 'value': 2962.18, 'unit': 'lx'} (próba 1)"
+2025-05-23T15:20:04.164468,SYSTEM,0.0,LOG,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:20:04.665141,SYSTEM,0.0,LOG,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:20:04.665141,L001,2962.18,lx
+2025-05-23T15:20:04.665803,SYSTEM,0.0,LOG,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T15:20:04.665803', 'value': 323.99, 'unit': 'AQI'} (próba 1)"
+2025-05-23T15:20:09.667821,SYSTEM,0.0,LOG,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:20:10.169659,SYSTEM,0.0,LOG,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:20:10.169659,AQ001,323.99,AQI
+----- KONIEC SESJI -----
+2025-05-23T15:43:51.432420,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8080...
+2025-05-23T15:43:51.432420,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T15:43:51.433392,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T15:43:51.433392', 'value': 34.68, 'unit': '°C'} (próba 1)"
+2025-05-23T15:43:56.445347,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:43:56.947353,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T15:43:51.433392', 'value': 34.68, 'unit': '°C'} (próba 2)"
+2025-05-23T15:44:01.961835,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 2)
+2025-05-23T15:44:02.463161,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T15:43:51.433392', 'value': 34.68, 'unit': '°C'} (próba 3)"
+2025-05-23T15:44:07.470631,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 3)
+2025-05-23T15:44:07.973000,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:44:07.973000,T001,34.68,°C
+2025-05-23T15:44:07.973999,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T15:44:07.973999', 'value': 78.35, 'unit': '%'} (próba 1)"
+2025-05-23T15:44:12.984129,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:44:13.486044,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T15:44:07.973999', 'value': 78.35, 'unit': '%'} (próba 2)"
+2025-05-23T15:44:18.500890,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 2)
+2025-05-23T15:44:19.003281,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T15:44:07.973999', 'value': 78.35, 'unit': '%'} (próba 3)"
+2025-05-23T15:44:24.016423,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 3)
+2025-05-23T15:44:24.518870,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:44:24.519869,H001,78.35,%
+2025-05-23T15:44:24.521884,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T15:44:24.520884', 'value': 682.99, 'unit': 'lx'} (próba 1)"
+2025-05-23T15:44:29.525931,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:44:30.028256,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T15:44:24.520884', 'value': 682.99, 'unit': 'lx'} (próba 2)"
+2025-05-23T15:44:35.032653,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 2)
+2025-05-23T15:44:35.534928,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T15:44:24.520884', 'value': 682.99, 'unit': 'lx'} (próba 3)"
+2025-05-23T15:44:40.539306,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 3)
+2025-05-23T15:44:41.040003,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:44:41.041002,L001,682.99,lx
+2025-05-23T15:44:41.043021,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T15:44:41.043021', 'value': 200.59, 'unit': 'AQI'} (próba 1)"
+2025-05-23T15:44:46.048355,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:44:46.551113,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T15:44:41.043021', 'value': 200.59, 'unit': 'AQI'} (próba 2)"
+2025-05-23T15:44:51.557482,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 2)
+2025-05-23T15:44:52.060045,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T15:44:41.043021', 'value': 200.59, 'unit': 'AQI'} (próba 3)"
+2025-05-23T15:44:57.061416,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 3)
+2025-05-23T15:44:57.562051,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:44:57.562051,AQ001,200.59,AQI
+2025-05-23T15:44:58.563575,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T15:44:58.563575', 'value': 35, 'unit': '°C'} (próba 1)"
+2025-05-23T15:45:03.578956,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:45:04.080956,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T15:44:58.563575', 'value': 35, 'unit': '°C'} (próba 2)"
+2025-05-23T15:45:09.090040,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 2)
+2025-05-23T15:45:09.592640,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T15:44:58.563575', 'value': 35, 'unit': '°C'} (próba 3)"
+2025-05-23T15:45:14.598538,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 3)
+2025-05-23T15:45:15.101425,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:45:15.101425,T001,35,°C
+2025-05-23T15:45:15.102392,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T15:45:15.102392', 'value': 78.64, 'unit': '%'} (próba 1)"
+2025-05-23T15:45:20.107530,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:45:20.610189,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T15:45:15.102392', 'value': 78.64, 'unit': '%'} (próba 2)"
+2025-05-23T15:45:25.624153,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 2)
+2025-05-23T15:45:26.126794,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T15:45:15.102392', 'value': 78.64, 'unit': '%'} (próba 3)"
+2025-05-23T15:45:31.135224,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 3)
+2025-05-23T15:45:31.637715,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:45:31.637715,H001,78.64,%
+2025-05-23T15:45:31.637715,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T15:45:31.637715', 'value': 667.12, 'unit': 'lx'} (próba 1)"
+2025-05-23T15:45:36.643046,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:45:37.145326,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T15:45:31.637715', 'value': 667.12, 'unit': 'lx'} (próba 2)"
+2025-05-23T15:45:42.149733,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 2)
+2025-05-23T15:45:42.650590,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T15:45:31.637715', 'value': 667.12, 'unit': 'lx'} (próba 3)"
+2025-05-23T15:45:47.655666,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 3)
+2025-05-23T15:45:48.156456,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:45:48.157456,L001,667.12,lx
+2025-05-23T15:45:48.159416,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T15:45:48.159416', 'value': 180.59, 'unit': 'AQI'} (próba 1)"
+2025-05-23T15:45:53.166288,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:45:53.668410,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T15:45:48.159416', 'value': 180.59, 'unit': 'AQI'} (próba 2)"
+2025-05-23T15:45:58.672762,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 2)
+2025-05-23T15:45:59.174817,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T15:45:48.159416', 'value': 180.59, 'unit': 'AQI'} (próba 3)"
+2025-05-23T15:46:04.191340,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 3)
+2025-05-23T15:46:04.692211,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:46:04.692211,AQ001,180.59,AQI
+2025-05-23T15:46:05.693981,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T15:46:05.693981', 'value': 35, 'unit': '°C'} (próba 1)"
+2025-05-23T15:46:10.709583,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:46:11.210733,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T15:46:05.693981', 'value': 35, 'unit': '°C'} (próba 2)"
+2025-05-23T15:46:16.213886,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 2)
+2025-05-23T15:46:16.714589,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T15:46:05.693981', 'value': 35, 'unit': '°C'} (próba 3)"
+2025-05-23T15:46:21.719117,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 3)
+2025-05-23T15:46:22.221415,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:46:22.221415,T001,35,°C
+2025-05-23T15:46:22.221415,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T15:46:22.221415', 'value': 79.06, 'unit': '%'} (próba 1)"
+2025-05-23T15:46:27.222992,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:46:27.723710,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T15:46:22.221415', 'value': 79.06, 'unit': '%'} (próba 2)"
+2025-05-23T15:46:32.727058,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 2)
+2025-05-23T15:46:33.228455,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T15:46:22.221415', 'value': 79.06, 'unit': '%'} (próba 3)"
+2025-05-23T15:46:38.232808,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 3)
+2025-05-23T15:46:38.734752,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:46:38.734752,H001,79.06,%
+2025-05-23T15:46:38.734752,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T15:46:38.734752', 'value': 610.52, 'unit': 'lx'} (próba 1)"
+2025-05-23T15:46:43.748740,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:46:44.250979,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T15:46:38.734752', 'value': 610.52, 'unit': 'lx'} (próba 2)"
+2025-05-23T15:46:49.254688,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 2)
+2025-05-23T15:46:49.756217,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T15:46:38.734752', 'value': 610.52, 'unit': 'lx'} (próba 3)"
+2025-05-23T15:46:54.771375,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 3)
+2025-05-23T15:46:55.273120,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:46:55.274119,L001,610.52,lx
+2025-05-23T15:46:55.275119,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T15:46:55.275119', 'value': 188.19, 'unit': 'AQI'} (próba 1)"
+2025-05-23T15:47:00.283504,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:47:00.785471,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T15:46:55.275119', 'value': 188.19, 'unit': 'AQI'} (próba 2)"
+2025-05-23T15:47:05.789629,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 2)
+2025-05-23T15:47:06.292121,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T15:46:55.275119', 'value': 188.19, 'unit': 'AQI'} (próba 3)"
+2025-05-23T15:47:11.294222,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 3)
+2025-05-23T15:47:11.796264,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:47:11.797224,AQ001,188.19,AQI
+----- KONIEC SESJI -----
+2025-05-23T15:56:24.380367,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T15:56:24.380367,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T15:56:24.381367,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T15:56:24.381367', 'value': 20.48, 'unit': '°C'} (próba 1)"
+2025-05-23T15:56:24.893179,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:56:25.394886,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:56:25.395885,T001,20.48,°C
+2025-05-23T15:56:25.396884,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T15:56:25.396884', 'value': 59.31, 'unit': '%'} (próba 1)"
+2025-05-23T15:56:25.907217,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:56:26.409312,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:56:26.410309,H001,59.31,%
+2025-05-23T15:56:26.411308,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T15:56:26.411308', 'value': 9687.89, 'unit': 'lx'} (próba 1)"
+2025-05-23T15:56:26.919267,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:56:27.421587,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:56:27.422583,L001,9687.89,lx
+2025-05-23T15:56:27.423581,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T15:56:27.423581', 'value': 119.98, 'unit': 'AQI'} (próba 1)"
+2025-05-23T15:56:27.930616,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:56:28.432405,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:56:28.433402,AQ001,119.98,AQI
+2025-05-23T15:56:29.436689,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T15:56:29.436689', 'value': 21.92, 'unit': '°C'} (próba 1)"
+2025-05-23T15:56:29.946561,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:56:30.448587,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:56:30.448587,T001,21.92,°C
+2025-05-23T15:56:30.448587,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T15:56:30.448587', 'value': 57.64, 'unit': '%'} (próba 1)"
+2025-05-23T15:56:30.958873,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:56:31.461555,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:56:31.461555,H001,57.64,%
+2025-05-23T15:56:31.461555,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T15:56:31.461555', 'value': 9752.89, 'unit': 'lx'} (próba 1)"
+2025-05-23T15:56:31.967178,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:56:32.468985,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:56:32.468985,L001,9752.89,lx
+2025-05-23T15:56:32.468985,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T15:56:32.468985', 'value': 127.05, 'unit': 'AQI'} (próba 1)"
+2025-05-23T15:56:32.972240,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:56:33.473517,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:56:33.474475,AQ001,127.05,AQI
+2025-05-23T15:56:34.476690,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T15:56:34.476690', 'value': 20.92, 'unit': '°C'} (próba 1)"
+2025-05-23T15:56:34.978189,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:56:35.480124,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:56:35.481123,T001,20.92,°C
+2025-05-23T15:56:35.482122,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T15:56:35.482122', 'value': 58.21, 'unit': '%'} (próba 1)"
+2025-05-23T15:56:35.986229,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:56:36.488842,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:56:36.488842,H001,58.21,%
+2025-05-23T15:56:36.488842,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T15:56:36.488842', 'value': 9655.14, 'unit': 'lx'} (próba 1)"
+2025-05-23T15:56:36.997733,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:56:37.499170,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:56:37.499170,L001,9655.14,lx
+2025-05-23T15:56:37.499170,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T15:56:37.499170', 'value': 121.81, 'unit': 'AQI'} (próba 1)"
+2025-05-23T15:56:38.007101,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:56:38.508919,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:56:38.509975,AQ001,121.81,AQI
+----- KONIEC SESJI -----
+2025-05-23T15:57:55.140112,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T15:57:55.140112,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T15:57:55.141112,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T15:57:55.141112', 'value': 19.13, 'unit': '°C'} (próba 1)"
+2025-05-23T15:57:55.650715,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:57:56.152863,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:57:56.154041,T001,19.13,°C
+2025-05-23T15:57:56.154949,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T15:57:56.154949', 'value': 72.63, 'unit': '%'} (próba 1)"
+2025-05-23T15:57:56.663685,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:57:57.164465,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:57:57.164465,H001,72.63,%
+2025-05-23T15:57:57.165525,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T15:57:57.165525', 'value': 136.74, 'unit': 'lx'} (próba 1)"
+2025-05-23T15:57:57.676304,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:57:58.178571,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:57:58.178571,L001,136.74,lx
+2025-05-23T15:57:58.178571,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T15:57:58.178571', 'value': 134.07, 'unit': 'AQI'} (próba 1)"
+2025-05-23T15:57:58.683545,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:57:59.185163,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:57:59.185163,AQ001,134.07,AQI
+2025-05-23T15:58:00.186224,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T15:58:00.186224', 'value': 20, 'unit': '°C'} (próba 1)"
+2025-05-23T15:58:00.695087,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:58:01.197649,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:58:01.197649,T001,20,°C
+2025-05-23T15:58:01.197649,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T15:58:01.197649', 'value': 71.19, 'unit': '%'} (próba 1)"
+2025-05-23T15:58:01.705734,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:58:02.207398,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:58:02.207398,H001,71.19,%
+2025-05-23T15:58:02.207398,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T15:58:02.207398', 'value': 150.05, 'unit': 'lx'} (próba 1)"
+2025-05-23T15:58:02.717728,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:58:03.219825,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:58:03.219825,L001,150.05,lx
+2025-05-23T15:58:03.219825,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T15:58:03.219825', 'value': 129.61, 'unit': 'AQI'} (próba 1)"
+2025-05-23T15:58:03.733712,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:58:04.236482,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:58:04.237482,AQ001,129.61,AQI
+2025-05-23T15:58:05.240198,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T15:58:05.240198', 'value': 18.86, 'unit': '°C'} (próba 1)"
+2025-05-23T15:58:05.743372,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:58:06.245361,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:58:06.246360,T001,18.86,°C
+2025-05-23T15:58:06.247396,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T15:58:06.247396', 'value': 72.07, 'unit': '%'} (próba 1)"
+2025-05-23T15:58:06.754779,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:58:07.255994,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:58:07.255994,H001,72.07,%
+2025-05-23T15:58:07.256959,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T15:58:07.256959', 'value': 80.13, 'unit': 'lx'} (próba 1)"
+2025-05-23T15:58:07.763020,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:58:08.263591,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:58:08.263591,L001,80.13,lx
+2025-05-23T15:58:08.263591,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T15:58:08.263591', 'value': 129.83, 'unit': 'AQI'} (próba 1)"
+2025-05-23T15:58:08.774204,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: timed out (próba 1)
+2025-05-23T15:58:09.276004,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T15:58:09.277054,AQ001,129.83,AQI
+----- KONIEC SESJI -----
+2025-05-23T16:19:21.872066,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T16:19:21.888528,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T16:19:21.888528,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T16:19:21.888528', 'value': 16.98, 'unit': '°C'} (próba 1)"
+2025-05-23T16:19:21.890533,NETWORK,0,STATUS,INFO,Otrzymano potwierdzenie od serwera (ACK).
+2025-05-23T16:19:21.890533,T001,16.98,°C
+2025-05-23T16:19:21.891532,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T16:19:21.891532', 'value': 66.69, 'unit': '%'} (próba 1)"
+2025-05-23T16:19:21.891532,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:19:22.392233,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:19:22.392233,H001,66.69,%
+2025-05-23T16:19:22.393202,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T16:19:22.393202', 'value': 7599.24, 'unit': 'lx'} (próba 1)"
+2025-05-23T16:19:22.394201,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:19:22.895287,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:19:22.896246,L001,7599.24,lx
+2025-05-23T16:19:22.897245,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T16:19:22.897245', 'value': 262.18, 'unit': 'AQI'} (próba 1)"
+2025-05-23T16:19:22.899288,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:19:23.402263,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:19:23.403310,AQ001,262.18,AQI
+2025-05-23T16:19:24.406059,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T16:19:24.406059', 'value': 18.36, 'unit': '°C'} (próba 1)"
+2025-05-23T16:19:24.408058,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:19:24.909913,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:19:24.910903,T001,18.36,°C
+2025-05-23T16:19:24.911902,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T16:19:24.911902', 'value': 65.68, 'unit': '%'} (próba 1)"
+2025-05-23T16:19:24.913902,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:19:25.415178,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:19:25.416184,H001,65.68,%
+2025-05-23T16:19:25.417137,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T16:19:25.417137', 'value': 7624.77, 'unit': 'lx'} (próba 1)"
+2025-05-23T16:19:25.419158,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:19:25.921429,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:19:25.921429,L001,7624.77,lx
+2025-05-23T16:19:25.921429,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T16:19:25.921429', 'value': 263.79, 'unit': 'AQI'} (próba 1)"
+2025-05-23T16:19:25.922377,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:19:26.423341,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:19:26.424342,AQ001,263.79,AQI
+2025-05-23T16:19:27.427198,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T16:19:27.427198', 'value': 16.88, 'unit': '°C'} (próba 1)"
+2025-05-23T16:19:27.427198,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:19:27.928805,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:19:27.928805,T001,16.88,°C
+2025-05-23T16:19:27.929508,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T16:19:27.929508', 'value': 67.43, 'unit': '%'} (próba 1)"
+2025-05-23T16:19:27.929508,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:19:28.430912,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:19:28.431946,H001,67.43,%
+2025-05-23T16:19:28.432946,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T16:19:28.432946', 'value': 7584.83, 'unit': 'lx'} (próba 1)"
+2025-05-23T16:19:28.434941,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:19:28.937408,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:19:28.937408,L001,7584.83,lx
+2025-05-23T16:19:28.938344,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T16:19:28.938344', 'value': 217.99, 'unit': 'AQI'} (próba 1)"
+2025-05-23T16:19:28.939344,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:19:29.440717,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:19:29.440717,AQ001,217.99,AQI
+----- KONIEC SESJI -----
+2025-05-23T16:20:32.118800,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T16:20:32.119800,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T16:20:32.119800,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T16:20:32.119800', 'value': 2.45, 'unit': '°C'} (próba 1)"
+2025-05-23T16:20:32.121800,NETWORK,0,STATUS,INFO,Otrzymano potwierdzenie od serwera (ACK).
+2025-05-23T16:20:32.121800,T001,2.45,°C
+2025-05-23T16:20:32.121800,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T16:20:32.121800', 'value': 47.61, 'unit': '%'} (próba 1)"
+2025-05-23T16:20:32.122800,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:20:32.623304,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T16:20:32.121800', 'value': 47.61, 'unit': '%'} (próba 2)"
+2025-05-23T16:20:32.623304,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 2)
+2025-05-23T16:20:33.124695,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:20:33.125695,H001,47.61,%
+2025-05-23T16:20:33.126696,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T16:20:33.126696', 'value': 44.64, 'unit': 'lx'} (próba 1)"
+2025-05-23T16:20:33.127690,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:20:33.630157,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T16:20:33.126696', 'value': 44.64, 'unit': 'lx'} (próba 2)"
+2025-05-23T16:20:33.630157,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 2)
+2025-05-23T16:20:34.131398,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:20:34.131398,L001,44.64,lx
+2025-05-23T16:20:34.131398,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T16:20:34.131398', 'value': 64.96, 'unit': 'AQI'} (próba 1)"
+2025-05-23T16:20:34.132398,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:20:34.632871,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T16:20:34.131398', 'value': 64.96, 'unit': 'AQI'} (próba 2)"
+2025-05-23T16:20:34.632871,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 2)
+2025-05-23T16:20:35.133760,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:20:35.134716,AQ001,64.96,AQI
+2025-05-23T16:20:36.137465,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T16:20:36.137465', 'value': 0.56, 'unit': '°C'} (próba 1)"
+2025-05-23T16:20:36.139099,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:20:36.641021,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T16:20:36.137465', 'value': 0.56, 'unit': '°C'} (próba 2)"
+2025-05-23T16:20:36.642060,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 2)
+2025-05-23T16:20:37.143990,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:20:37.143990,T001,0.56,°C
+2025-05-23T16:20:37.143990,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T16:20:37.143990', 'value': 49.21, 'unit': '%'} (próba 1)"
+2025-05-23T16:20:37.143990,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:20:37.646080,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T16:20:37.143990', 'value': 49.21, 'unit': '%'} (próba 2)"
+2025-05-23T16:20:37.647077,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 2)
+2025-05-23T16:20:38.150438,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:20:38.151420,H001,49.21,%
+2025-05-23T16:20:38.152472,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T16:20:38.152472', 'value': 61.84, 'unit': 'lx'} (próba 1)"
+2025-05-23T16:20:38.154481,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:20:38.656378,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T16:20:38.152472', 'value': 61.84, 'unit': 'lx'} (próba 2)"
+2025-05-23T16:20:38.657355,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 2)
+2025-05-23T16:20:39.158292,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:20:39.158292,L001,61.84,lx
+2025-05-23T16:20:39.158292,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T16:20:39.158292', 'value': 65.33, 'unit': 'AQI'} (próba 1)"
+2025-05-23T16:20:39.159306,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:20:39.660590,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T16:20:39.158292', 'value': 65.33, 'unit': 'AQI'} (próba 2)"
+2025-05-23T16:20:39.661632,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 2)
+2025-05-23T16:20:40.163410,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:20:40.164363,AQ001,65.33,AQI
+2025-05-23T16:20:41.167414,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T16:20:41.167414', 'value': 2.1, 'unit': '°C'} (próba 1)"
+2025-05-23T16:20:41.167414,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:20:41.669187,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T16:20:41.167414', 'value': 2.1, 'unit': '°C'} (próba 2)"
+2025-05-23T16:20:41.670152,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 2)
+2025-05-23T16:20:42.172579,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:20:42.172579,T001,2.1,°C
+2025-05-23T16:20:42.172579,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T16:20:42.172579', 'value': 48.19, 'unit': '%'} (próba 1)"
+2025-05-23T16:20:42.172579,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:20:42.674402,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T16:20:42.172579', 'value': 48.19, 'unit': '%'} (próba 2)"
+2025-05-23T16:20:42.675344,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 2)
+2025-05-23T16:20:43.178080,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:20:43.179469,H001,48.19,%
+2025-05-23T16:20:43.180365,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T16:20:43.180365', 'value': 33.67, 'unit': 'lx'} (próba 1)"
+2025-05-23T16:20:43.181409,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:20:43.683520,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T16:20:43.180365', 'value': 33.67, 'unit': 'lx'} (próba 2)"
+2025-05-23T16:20:43.684522,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 2)
+2025-05-23T16:20:44.186469,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:20:44.187512,L001,33.67,lx
+2025-05-23T16:20:44.188521,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T16:20:44.188521', 'value': 63.08, 'unit': 'AQI'} (próba 1)"
+2025-05-23T16:20:44.189509,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:20:44.691704,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T16:20:44.188521', 'value': 63.08, 'unit': 'AQI'} (próba 2)"
+2025-05-23T16:20:44.691704,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 2)
+2025-05-23T16:20:45.192506,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:20:45.193464,AQ001,63.08,AQI
+----- KONIEC SESJI -----
+2025-05-23T16:34:35.314075,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T16:34:35.331632,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T16:34:35.331632,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T16:34:35.331632', 'value': 14.79, 'unit': '°C'} (próba 1)"
+2025-05-23T16:34:35.333606,NETWORK,0,STATUS,INFO,Otrzymano potwierdzenie od serwera (ACK).
+2025-05-23T16:34:35.333606,T001,14.79,°C
+2025-05-23T16:34:35.333606,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T16:34:35.333606', 'value': 63.82, 'unit': '%'} (próba 1)"
+2025-05-23T16:34:35.334631,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:34:35.835353,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T16:34:35.333606', 'value': 63.82, 'unit': '%'} (próba 2)"
+2025-05-23T16:34:35.835353,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 2)
+2025-05-23T16:34:36.336220,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T16:34:35.333606', 'value': 63.82, 'unit': '%'} (próba 3)"
+2025-05-23T16:34:36.336220,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 3)
+2025-05-23T16:34:36.837403,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:34:36.838444,H001,63.82,%
+2025-05-23T16:34:36.839444,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T16:34:36.839444', 'value': 50.78, 'unit': 'lx'} (próba 1)"
+2025-05-23T16:34:36.841443,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:34:37.343488,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T16:34:36.839444', 'value': 50.78, 'unit': 'lx'} (próba 2)"
+2025-05-23T16:34:37.343488,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 2)
+2025-05-23T16:34:37.844860,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T16:34:36.839444', 'value': 50.78, 'unit': 'lx'} (próba 3)"
+2025-05-23T16:34:37.846523,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 3)
+2025-05-23T16:34:38.348116,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:34:38.349158,L001,50.78,lx
+2025-05-23T16:34:38.351106,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T16:34:38.351106', 'value': 26.59, 'unit': 'AQI'} (próba 1)"
+2025-05-23T16:34:38.353158,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:34:38.854496,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T16:34:38.351106', 'value': 26.59, 'unit': 'AQI'} (próba 2)"
+2025-05-23T16:34:38.855494,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 2)
+2025-05-23T16:34:39.357851,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T16:34:38.351106', 'value': 26.59, 'unit': 'AQI'} (próba 3)"
+2025-05-23T16:34:39.358890,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 3)
+2025-05-23T16:34:39.860763,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:34:39.861817,AQ001,26.59,AQI
+2025-05-23T16:34:40.864734,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T16:34:40.864734', 'value': 16.06, 'unit': '°C'} (próba 1)"
+2025-05-23T16:34:40.865703,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:34:41.368025,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T16:34:40.864734', 'value': 16.06, 'unit': '°C'} (próba 2)"
+2025-05-23T16:34:41.368025,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 2)
+2025-05-23T16:34:41.869332,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T16:34:40.864734', 'value': 16.06, 'unit': '°C'} (próba 3)"
+2025-05-23T16:34:41.870289,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 3)
+2025-05-23T16:34:42.372870,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:34:42.373867,T001,16.06,°C
+2025-05-23T16:34:42.374829,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T16:34:42.374829', 'value': 62.11, 'unit': '%'} (próba 1)"
+2025-05-23T16:34:42.376828,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:34:42.879459,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T16:34:42.374829', 'value': 62.11, 'unit': '%'} (próba 2)"
+2025-05-23T16:34:42.880458,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 2)
+2025-05-23T16:34:43.382387,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T16:34:42.374829', 'value': 62.11, 'unit': '%'} (próba 3)"
+2025-05-23T16:34:43.382387,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 3)
+2025-05-23T16:34:43.883325,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:34:43.884321,H001,62.11,%
+2025-05-23T16:34:43.885366,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T16:34:43.885366', 'value': 55.43, 'unit': 'lx'} (próba 1)"
+2025-05-23T16:34:43.887372,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:34:44.389060,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T16:34:43.885366', 'value': 55.43, 'unit': 'lx'} (próba 2)"
+2025-05-23T16:34:44.389060,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 2)
+2025-05-23T16:34:44.890694,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T16:34:43.885366', 'value': 55.43, 'unit': 'lx'} (próba 3)"
+2025-05-23T16:34:44.890694,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 3)
+2025-05-23T16:34:45.391469,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:34:45.392472,L001,55.43,lx
+2025-05-23T16:34:45.393469,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T16:34:45.393469', 'value': 26.77, 'unit': 'AQI'} (próba 1)"
+2025-05-23T16:34:45.395468,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:34:45.897625,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T16:34:45.393469', 'value': 26.77, 'unit': 'AQI'} (próba 2)"
+2025-05-23T16:34:45.898605,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 2)
+2025-05-23T16:34:46.401556,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T16:34:45.393469', 'value': 26.77, 'unit': 'AQI'} (próba 3)"
+2025-05-23T16:34:46.402516,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 3)
+2025-05-23T16:34:46.904681,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:34:46.905680,AQ001,26.77,AQI
+2025-05-23T16:34:47.909156,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T16:34:47.909156', 'value': 14.89, 'unit': '°C'} (próba 1)"
+2025-05-23T16:34:47.909156,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:34:48.410497,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T16:34:47.909156', 'value': 14.89, 'unit': '°C'} (próba 2)"
+2025-05-23T16:34:48.410497,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 2)
+2025-05-23T16:34:48.911956,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T16:34:47.909156', 'value': 14.89, 'unit': '°C'} (próba 3)"
+2025-05-23T16:34:48.912997,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 3)
+2025-05-23T16:34:49.415581,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:34:49.415581,T001,14.89,°C
+2025-05-23T16:34:49.416251,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T16:34:49.416251', 'value': 63.67, 'unit': '%'} (próba 1)"
+2025-05-23T16:34:49.416251,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:34:49.917084,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T16:34:49.416251', 'value': 63.67, 'unit': '%'} (próba 2)"
+2025-05-23T16:34:49.917084,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 2)
+2025-05-23T16:34:50.418068,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T16:34:49.416251', 'value': 63.67, 'unit': '%'} (próba 3)"
+2025-05-23T16:34:50.419055,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 3)
+2025-05-23T16:34:50.921882,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:34:50.921882,H001,63.67,%
+2025-05-23T16:34:50.921882,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T16:34:50.921882', 'value': 128.82, 'unit': 'lx'} (próba 1)"
+2025-05-23T16:34:50.922793,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:34:51.423757,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T16:34:50.921882', 'value': 128.82, 'unit': 'lx'} (próba 2)"
+2025-05-23T16:34:51.423757,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 2)
+2025-05-23T16:34:51.925009,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T16:34:50.921882', 'value': 128.82, 'unit': 'lx'} (próba 3)"
+2025-05-23T16:34:51.925009,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 3)
+2025-05-23T16:34:52.426309,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:34:52.426309,L001,128.82,lx
+2025-05-23T16:34:52.427309,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T16:34:52.427309', 'value': 35.32, 'unit': 'AQI'} (próba 1)"
+2025-05-23T16:34:52.427309,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:34:52.928316,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T16:34:52.427309', 'value': 35.32, 'unit': 'AQI'} (próba 2)"
+2025-05-23T16:34:52.928316,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 2)
+2025-05-23T16:34:53.430215,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T16:34:52.427309', 'value': 35.32, 'unit': 'AQI'} (próba 3)"
+2025-05-23T16:34:53.431234,NETWORK,0,ERROR,ERROR,Błąd wysyłania/odbioru: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 3)
+2025-05-23T16:34:53.934267,NETWORK,0,ERROR,ERROR,Wyczerpano limit prób wysyłki.
+2025-05-23T16:34:53.935267,AQ001,35.32,AQI
+----- KONIEC SESJI -----
+2025-05-23T16:49:19.050249,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T16:49:19.051262,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T16:49:19.051262,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T16:49:19.051262', 'value': -0.05, 'unit': '°C'} (próba 1)"
+2025-05-23T16:49:19.053235,NETWORK,0,STATUS,INFO,Otrzymano potwierdzenie od serwera (ACK).
+2025-05-23T16:49:19.053235,T001,-0.05,°C
+2025-05-23T16:49:19.053235,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T16:49:19.053235', 'value': 60.23, 'unit': '%'} (próba 1)"
+2025-05-23T16:49:19.054259,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T16:49:19.054259,NETWORK,0,ERROR,ERROR,Błąd: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:49:19.555415,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T16:49:19.574563,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T16:49:19.575562,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T16:49:19.053235', 'value': 60.23, 'unit': '%'} (próba 2)"
+2025-05-23T16:49:19.580518,NETWORK,0,STATUS,INFO,Otrzymano potwierdzenie od serwera (ACK).
+2025-05-23T16:49:19.581523,H001,60.23,%
+2025-05-23T16:49:19.583520,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T16:49:19.583520', 'value': 69.86, 'unit': 'lx'} (próba 1)"
+2025-05-23T16:49:19.584582,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T16:49:19.585525,NETWORK,0,ERROR,ERROR,Błąd: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:49:20.087839,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T16:49:20.107035,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T16:49:20.108003,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T16:49:19.583520', 'value': 69.86, 'unit': 'lx'} (próba 2)"
+2025-05-23T16:49:20.109976,NETWORK,0,STATUS,INFO,Otrzymano potwierdzenie od serwera (ACK).
+2025-05-23T16:49:20.110976,L001,69.86,lx
+2025-05-23T16:49:20.112012,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T16:49:20.112012', 'value': 268.14, 'unit': 'AQI'} (próba 1)"
+2025-05-23T16:49:20.112012,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T16:49:20.112977,NETWORK,0,ERROR,ERROR,Błąd: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:49:20.614413,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T16:49:20.614413,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T16:49:20.615410,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T16:49:20.112012', 'value': 268.14, 'unit': 'AQI'} (próba 2)"
+2025-05-23T16:49:20.615410,NETWORK,0,STATUS,INFO,Otrzymano potwierdzenie od serwera (ACK).
+2025-05-23T16:49:20.616410,AQ001,268.14,AQI
+2025-05-23T16:49:21.617610,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T16:49:21.617610', 'value': 1.23, 'unit': '°C'} (próba 1)"
+2025-05-23T16:49:21.619613,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T16:49:21.620624,NETWORK,0,ERROR,ERROR,Błąd: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:49:22.122834,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T16:49:22.123828,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T16:49:22.123828,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T16:49:21.617610', 'value': 1.23, 'unit': '°C'} (próba 2)"
+2025-05-23T16:49:22.124828,NETWORK,0,STATUS,INFO,Otrzymano potwierdzenie od serwera (ACK).
+2025-05-23T16:49:22.125827,T001,1.23,°C
+2025-05-23T16:49:22.125827,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T16:49:22.125827', 'value': 58.69, 'unit': '%'} (próba 1)"
+2025-05-23T16:49:22.126829,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T16:49:22.126829,NETWORK,0,ERROR,ERROR,Błąd: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:49:22.628349,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T16:49:22.651458,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T16:49:22.652457,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T16:49:22.125827', 'value': 58.69, 'unit': '%'} (próba 2)"
+2025-05-23T16:49:22.657418,NETWORK,0,STATUS,INFO,Otrzymano potwierdzenie od serwera (ACK).
+2025-05-23T16:49:22.659416,H001,58.69,%
+2025-05-23T16:49:22.660416,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T16:49:22.660416', 'value': 5.49, 'unit': 'lx'} (próba 1)"
+2025-05-23T16:49:22.661415,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T16:49:22.663416,NETWORK,0,ERROR,ERROR,Błąd: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:49:23.164829,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T16:49:23.191799,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T16:49:23.191799,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T16:49:22.660416', 'value': 5.49, 'unit': 'lx'} (próba 2)"
+2025-05-23T16:49:23.193809,NETWORK,0,STATUS,INFO,Otrzymano potwierdzenie od serwera (ACK).
+2025-05-23T16:49:23.193809,L001,5.49,lx
+2025-05-23T16:49:23.193809,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T16:49:23.193809', 'value': 275.15, 'unit': 'AQI'} (próba 1)"
+2025-05-23T16:49:23.194830,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T16:49:23.194830,NETWORK,0,ERROR,ERROR,Błąd: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:49:23.696290,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T16:49:23.720287,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T16:49:23.721227,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T16:49:23.193809', 'value': 275.15, 'unit': 'AQI'} (próba 2)"
+2025-05-23T16:49:23.723265,NETWORK,0,STATUS,INFO,Otrzymano potwierdzenie od serwera (ACK).
+2025-05-23T16:49:23.724223,AQ001,275.15,AQI
+2025-05-23T16:49:24.726378,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T16:49:24.726378', 'value': 1.66, 'unit': '°C'} (próba 1)"
+2025-05-23T16:49:24.728331,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T16:49:24.729330,NETWORK,0,ERROR,ERROR,Błąd: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:49:25.231300,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T16:49:25.244845,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T16:49:25.245849,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'T001', 'timestamp': '2025-05-23T16:49:24.726378', 'value': 1.66, 'unit': '°C'} (próba 2)"
+2025-05-23T16:49:25.250799,NETWORK,0,STATUS,INFO,Otrzymano potwierdzenie od serwera (ACK).
+2025-05-23T16:49:25.251861,T001,1.66,°C
+2025-05-23T16:49:25.253856,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T16:49:25.252858', 'value': 58.94, 'unit': '%'} (próba 1)"
+2025-05-23T16:49:25.254860,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T16:49:25.255842,NETWORK,0,ERROR,ERROR,Błąd: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:49:25.758811,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T16:49:25.773916,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T16:49:25.773916,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'H001', 'timestamp': '2025-05-23T16:49:25.252858', 'value': 58.94, 'unit': '%'} (próba 2)"
+2025-05-23T16:49:25.775813,NETWORK,0,STATUS,INFO,Otrzymano potwierdzenie od serwera (ACK).
+2025-05-23T16:49:25.775813,H001,58.94,%
+2025-05-23T16:49:25.775813,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T16:49:25.775813', 'value': 32.78, 'unit': 'lx'} (próba 1)"
+2025-05-23T16:49:25.776833,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T16:49:25.776833,NETWORK,0,ERROR,ERROR,Błąd: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:49:26.277820,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T16:49:26.299047,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T16:49:26.301062,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'L001', 'timestamp': '2025-05-23T16:49:25.775813', 'value': 32.78, 'unit': 'lx'} (próba 2)"
+2025-05-23T16:49:26.305004,NETWORK,0,STATUS,INFO,Otrzymano potwierdzenie od serwera (ACK).
+2025-05-23T16:49:26.307055,L001,32.78,lx
+2025-05-23T16:49:26.308054,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T16:49:26.308054', 'value': 279.29, 'unit': 'AQI'} (próba 1)"
+2025-05-23T16:49:26.310047,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T16:49:26.311046,NETWORK,0,ERROR,ERROR,Błąd: [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście (próba 1)
+2025-05-23T16:49:26.813247,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T16:49:26.830438,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T16:49:26.831438,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu: {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T16:49:26.308054', 'value': 279.29, 'unit': 'AQI'} (próba 2)"
+2025-05-23T16:49:26.835445,NETWORK,0,STATUS,INFO,Otrzymano potwierdzenie od serwera (ACK).
+2025-05-23T16:49:26.836470,AQ001,279.29,AQI
+----- KONIEC SESJI -----
+2025-05-23T17:00:42.786425,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:00:42.786425,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:00:42.787455,SYSTEM,0.0,LOG,INFO,Połączenie już istnieje.
+2025-05-23T17:00:42.787455,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:00:42.787455', 'value': 32.24, 'unit': '°C'}"
+2025-05-23T17:00:42.788455,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:00:42.789426,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:00:42.790424,T001,32.24,°C
+2025-05-23T17:00:42.790424,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:00:42.804516,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:00:42.804516,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:00:42.790424', 'value': 77.86, 'unit': '%'}"
+2025-05-23T17:00:42.806426,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:00:42.806426,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:00:42.806426,H001,77.86,%
+2025-05-23T17:00:42.807454,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:00:42.819741,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:00:42.819741,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:00:42.807454', 'value': 4559.28, 'unit': 'lx'}"
+2025-05-23T17:00:42.821648,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:00:42.821648,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:00:42.821648,L001,4559.28,lx
+2025-05-23T17:00:42.821648,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:00:42.835743,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:00:42.835743,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:00:42.821648', 'value': 68.96, 'unit': 'AQI'}"
+2025-05-23T17:00:42.837650,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:00:42.837650,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:00:42.837650,AQ001,68.96,AQI
+2025-05-23T17:00:43.838901,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:00:43.860908,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:00:43.860908,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:00:43.838901', 'value': 32.7, 'unit': '°C'}"
+2025-05-23T17:00:43.862908,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:00:43.863908,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:00:43.863908,T001,32.7,°C
+2025-05-23T17:00:43.864909,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:00:43.864909,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:00:43.864909,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:00:43.863908', 'value': 77.95, 'unit': '%'}"
+2025-05-23T17:00:43.870911,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:00:43.871932,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:00:43.871932,H001,77.95,%
+2025-05-23T17:00:43.872908,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:00:43.890004,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:00:43.890004,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:00:43.871932', 'value': 4557.08, 'unit': 'lx'}"
+2025-05-23T17:00:43.891908,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:00:43.891908,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:00:43.891908,L001,4557.08,lx
+2025-05-23T17:00:43.892907,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:00:43.905930,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:00:43.905930,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:00:43.892907', 'value': 66.76, 'unit': 'AQI'}"
+2025-05-23T17:00:43.906907,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:00:43.907907,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:00:43.907907,AQ001,66.76,AQI
+2025-05-23T17:00:44.909437,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:00:44.931659,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:00:44.933665,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:00:44.909437', 'value': 33.89, 'unit': '°C'}"
+2025-05-23T17:00:44.937616,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:00:44.939668,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:00:44.940665,T001,33.89,°C
+2025-05-23T17:00:44.940665,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:00:44.963005,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:00:44.963005,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:00:44.940665', 'value': 77.2, 'unit': '%'}"
+2025-05-23T17:00:44.963935,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:00:44.964915,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:00:44.964915,H001,77.2,%
+2025-05-23T17:00:44.964915,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:00:44.978225,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:00:44.978225,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:00:44.964915', 'value': 4491.96, 'unit': 'lx'}"
+2025-05-23T17:00:44.979128,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:00:44.980127,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:00:44.980127,L001,4491.96,lx
+2025-05-23T17:00:44.980127,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:00:44.993416,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:00:44.993416,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:00:44.980127', 'value': 58.05, 'unit': 'AQI'}"
+2025-05-23T17:00:44.995336,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:00:44.995336,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:00:44.995336,AQ001,58.05,AQI
+----- KONIEC SESJI -----
+2025-05-23T17:04:31.940639,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:04:31.941644,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:04:31.941644,SYSTEM,0.0,LOG,INFO,Połączenie już istnieje.
+2025-05-23T17:04:31.942615,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:04:31.941644', 'value': 29.78, 'unit': '°C'}"
+2025-05-23T17:04:31.943612,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:04:31.944642,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:04:31.944642,T001,29.78,°C
+2025-05-23T17:04:31.944642,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:04:31.968024,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:04:31.968024,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:04:31.944642', 'value': 70.28, 'unit': '%'}"
+2025-05-23T17:04:31.969932,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:04:31.969932,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:04:31.969932,H001,70.28,%
+2025-05-23T17:04:31.969932,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:04:31.983154,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:04:31.983154,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:04:31.969932', 'value': 525.09, 'unit': 'lx'}"
+2025-05-23T17:04:31.985062,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:04:31.985062,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:04:31.985062,L001,525.09,lx
+2025-05-23T17:04:31.986094,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:04:31.999094,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:04:31.999094,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:04:31.986094', 'value': 457.2, 'unit': 'AQI'}"
+2025-05-23T17:04:32.001062,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:04:32.001062,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:04:32.001062,AQ001,457.2,AQI
+2025-05-23T17:04:33.003464,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:04:33.025593,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:04:33.026582,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:04:33.003464', 'value': 29.13, 'unit': '°C'}"
+2025-05-23T17:04:33.029548,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:04:33.031584,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:04:33.031584,T001,29.13,°C
+2025-05-23T17:04:33.032598,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:04:33.034588,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:04:33.035550,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:04:33.032598', 'value': 72.0, 'unit': '%'}"
+2025-05-23T17:04:33.038547,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:04:33.039598,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:04:33.040588,H001,72.0,%
+2025-05-23T17:04:33.041582,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:04:33.042583,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:04:33.043547,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:04:33.041582', 'value': 596.99, 'unit': 'lx'}"
+2025-05-23T17:04:33.046543,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:04:33.047581,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:04:33.048574,L001,596.99,lx
+2025-05-23T17:04:33.048574,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:04:33.072540,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:04:33.072540,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:04:33.048574', 'value': 450.41, 'unit': 'AQI'}"
+2025-05-23T17:04:33.074543,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:04:33.074543,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:04:33.074543,AQ001,450.41,AQI
+2025-05-23T17:04:34.076712,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:04:34.099014,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:04:34.099972,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:04:34.076712', 'value': 30.08, 'unit': '°C'}"
+2025-05-23T17:04:34.104969,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:04:34.107013,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:04:34.108013,T001,30.08,°C
+2025-05-23T17:04:34.109013,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:04:34.130198,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:04:34.130198,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:04:34.109013', 'value': 71.01, 'unit': '%'}"
+2025-05-23T17:04:34.132188,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:04:34.133187,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:04:34.133187,H001,71.01,%
+2025-05-23T17:04:34.133187,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:04:34.145221,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:04:34.145221,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:04:34.133187', 'value': 695.98, 'unit': 'lx'}"
+2025-05-23T17:04:34.147187,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:04:34.147187,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:04:34.147187,L001,695.98,lx
+2025-05-23T17:04:34.148187,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:04:34.161187,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:04:34.161187,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:04:34.148187', 'value': 447.25, 'unit': 'AQI'}"
+2025-05-23T17:04:34.162189,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:04:34.163186,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:04:34.163186,AQ001,447.25,AQI
+----- KONIEC SESJI -----
+2025-05-23T17:06:14.404428,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:06:14.405461,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:06:14.405461,SYSTEM,0.0,LOG,INFO,Połączenie już istnieje.
+2025-05-23T17:06:14.405461,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:06:14.405461', 'value': 15.98, 'unit': '°C'}"
+2025-05-23T17:06:14.407429,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:06:14.407429,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:06:14.407429,T001,15.98,°C
+2025-05-23T17:06:14.408459,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:06:14.430520,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:06:14.430520,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:06:14.408459', 'value': 80.39, 'unit': '%'}"
+2025-05-23T17:06:14.432429,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:06:14.432429,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:06:14.432429,H001,80.39,%
+2025-05-23T17:06:14.433454,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:06:14.445588,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:06:14.445588,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:06:14.433454', 'value': 867.76, 'unit': 'lx'}"
+2025-05-23T17:06:14.447562,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:06:14.447562,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:06:14.447562,L001,867.76,lx
+2025-05-23T17:06:14.448587,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:06:14.461238,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:06:14.461238,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:06:14.448587', 'value': 29.47, 'unit': 'AQI'}"
+2025-05-23T17:06:14.462239,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:06:14.463239,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:06:14.463239,AQ001,29.47,AQI
+2025-05-23T17:06:15.465009,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:06:15.489157,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:06:15.490115,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:06:15.465009', 'value': 15.78, 'unit': '°C'}"
+2025-05-23T17:06:15.495121,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:06:15.496170,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:06:15.497170,T001,15.78,°C
+2025-05-23T17:06:15.498153,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:06:15.520432,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:06:15.520432,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:06:15.498153', 'value': 80.0, 'unit': '%'}"
+2025-05-23T17:06:15.522337,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:06:15.522337,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:06:15.522337,H001,80.0,%
+2025-05-23T17:06:15.523337,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:06:15.535807,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:06:15.535807,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:06:15.523337', 'value': 829.08, 'unit': 'lx'}"
+2025-05-23T17:06:15.536712,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:06:15.537711,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:06:15.537711,L001,829.08,lx
+2025-05-23T17:06:15.537711,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:06:15.550943,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:06:15.550943,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:06:15.537711', 'value': 35.07, 'unit': 'AQI'}"
+2025-05-23T17:06:15.552848,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:06:15.552848,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:06:15.552848,AQ001,35.07,AQI
+2025-05-23T17:06:16.555240,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:06:16.577468,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:06:16.578472,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:06:16.555240', 'value': 15.48, 'unit': '°C'}"
+2025-05-23T17:06:16.583465,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:06:16.585467,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:06:16.586466,T001,15.48,°C
+2025-05-23T17:06:16.587467,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:06:16.609323,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:06:16.610320,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:06:16.587467', 'value': 80.43, 'unit': '%'}"
+2025-05-23T17:06:16.613278,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:06:16.614318,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:06:16.615319,H001,80.43,%
+2025-05-23T17:06:16.616320,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:06:16.640918,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:06:16.641911,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:06:16.616320', 'value': 743.4, 'unit': 'lx'}"
+2025-05-23T17:06:16.644875,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:06:16.646908,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:06:16.647908,L001,743.4,lx
+2025-05-23T17:06:16.648924,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:06:16.671312,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:06:16.672301,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:06:16.647908', 'value': 39.61, 'unit': 'AQI'}"
+2025-05-23T17:06:16.675262,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:06:16.676262,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:06:16.677262,AQ001,39.61,AQI
+----- KONIEC SESJI -----
+2025-05-23T17:13:17.942929,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:13:17.943906,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:13:17.943906,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:13:17.943906', 'value': 17.69, 'unit': '°C'}"
+2025-05-23T17:13:17.945905,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:13:17.945905,T001,17.69,°C
+2025-05-23T17:13:17.945905,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:13:17.945905', 'value': 70.18, 'unit': '%'}"
+2025-05-23T17:13:17.946930,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:13:17.946930,NETWORK,0,ERROR,ERROR,Błąd (próba 1): [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście
+2025-05-23T17:13:18.448120,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:13:18.465487,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:13:18.465487,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 2): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:13:17.945905', 'value': 70.18, 'unit': '%'}"
+2025-05-23T17:13:18.467390,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:13:18.467390,H001,70.18,%
+2025-05-23T17:13:18.467390,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:13:18.467390', 'value': 6216.17, 'unit': 'lx'}"
+2025-05-23T17:13:18.468415,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:13:18.468415,NETWORK,0,ERROR,ERROR,Błąd (próba 1): [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście
+2025-05-23T17:13:18.969346,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:13:18.981347,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:13:18.983302,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 2): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:13:18.467390', 'value': 6216.17, 'unit': 'lx'}"
+2025-05-23T17:13:18.987313,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:13:18.988345,L001,6216.17,lx
+2025-05-23T17:13:18.989302,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:13:18.989302', 'value': 355.19, 'unit': 'AQI'}"
+2025-05-23T17:13:18.991305,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:13:18.992302,NETWORK,0,ERROR,ERROR,Błąd (próba 1): [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście
+2025-05-23T17:13:19.494720,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:13:19.511957,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:13:19.511957,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 2): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:13:18.989302', 'value': 355.19, 'unit': 'AQI'}"
+2025-05-23T17:13:19.514953,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:13:19.515953,AQ001,355.19,AQI
+2025-05-23T17:13:20.517736,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:13:20.517736', 'value': 16.49, 'unit': '°C'}"
+2025-05-23T17:13:20.517736,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:13:20.517736,NETWORK,0,ERROR,ERROR,Błąd (próba 1): [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście
+2025-05-23T17:13:21.019314,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:13:21.038143,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:13:21.039100,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 2): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:13:20.517736', 'value': 16.49, 'unit': '°C'}"
+2025-05-23T17:13:21.044141,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:13:21.046100,T001,16.49,°C
+2025-05-23T17:13:21.047101,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:13:21.047101', 'value': 71.68, 'unit': '%'}"
+2025-05-23T17:13:21.049098,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:13:21.050098,NETWORK,0,ERROR,ERROR,Błąd (próba 1): [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście
+2025-05-23T17:13:21.552701,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:13:21.565832,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:13:21.567829,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 2): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:13:21.047101', 'value': 71.68, 'unit': '%'}"
+2025-05-23T17:13:21.571830,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:13:21.572829,H001,71.68,%
+2025-05-23T17:13:21.573829,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:13:21.573829', 'value': 6162.4, 'unit': 'lx'}"
+2025-05-23T17:13:21.574829,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:13:21.575828,NETWORK,0,ERROR,ERROR,Błąd (próba 1): [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście
+2025-05-23T17:13:22.077975,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:13:22.078906,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:13:22.078906,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 2): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:13:21.573829', 'value': 6162.4, 'unit': 'lx'}"
+2025-05-23T17:13:22.080905,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:13:22.080905,L001,6162.4,lx
+2025-05-23T17:13:22.081905,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:13:22.081905', 'value': 363.16, 'unit': 'AQI'}"
+2025-05-23T17:13:22.081905,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:13:22.082935,NETWORK,0,ERROR,ERROR,Błąd (próba 1): [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście
+2025-05-23T17:13:22.583933,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:13:22.607049,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:13:22.607049,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 2): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:13:22.081905', 'value': 363.16, 'unit': 'AQI'}"
+2025-05-23T17:13:22.608957,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:13:22.608957,AQ001,363.16,AQI
+2025-05-23T17:13:23.610965,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:13:23.610965', 'value': 15.07, 'unit': '°C'}"
+2025-05-23T17:13:23.610965,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:13:23.610965,NETWORK,0,ERROR,ERROR,Błąd (próba 1): [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście
+2025-05-23T17:13:24.112423,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:13:24.134398,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:13:24.134398,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 2): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:13:23.610965', 'value': 15.07, 'unit': '°C'}"
+2025-05-23T17:13:24.136397,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:13:24.136397,T001,15.07,°C
+2025-05-23T17:13:24.136397,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:13:24.136397', 'value': 73.47, 'unit': '%'}"
+2025-05-23T17:13:24.137398,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:13:24.137398,NETWORK,0,ERROR,ERROR,Błąd (próba 1): [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście
+2025-05-23T17:13:24.638764,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:13:24.663739,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:13:24.663739,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 2): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:13:24.136397', 'value': 73.47, 'unit': '%'}"
+2025-05-23T17:13:24.664739,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:13:24.665738,H001,73.47,%
+2025-05-23T17:13:24.665738,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:13:24.665738', 'value': 6148.94, 'unit': 'lx'}"
+2025-05-23T17:13:24.665738,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:13:24.666738,NETWORK,0,ERROR,ERROR,Błąd (próba 1): [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście
+2025-05-23T17:13:25.167738,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:13:25.193822,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:13:25.194825,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 2): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:13:24.665738', 'value': 6148.94, 'unit': 'lx'}"
+2025-05-23T17:13:25.197822,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:13:25.198821,L001,6148.94,lx
+2025-05-23T17:13:25.199853,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:13:25.199853', 'value': 363.18, 'unit': 'AQI'}"
+2025-05-23T17:13:25.200851,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:13:25.200851,NETWORK,0,ERROR,ERROR,Błąd (próba 1): [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście
+2025-05-23T17:13:25.703199,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:13:25.723216,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:13:25.723216,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 2): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:13:25.199853', 'value': 363.18, 'unit': 'AQI'}"
+2025-05-23T17:13:25.725217,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:13:25.725217,AQ001,363.18,AQI
+----- KONIEC SESJI -----
+2025-05-23T17:23:40.382906,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:23:40.383907,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:23:40.383907,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:23:40.383907', 'value': 19.49, 'unit': '°C'}"
+2025-05-23T17:23:40.385874,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:23:40.385874,T001,19.49,°C
+2025-05-23T17:23:40.385874,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:23:40.385874', 'value': 46.45, 'unit': '%'}"
+2025-05-23T17:23:40.386896,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:23:40.386896,NETWORK,0,ERROR,ERROR,Błąd (próba 1): [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście
+2025-05-23T17:23:40.888021,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:23:40.910331,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:23:40.911309,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 2): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:23:40.385874', 'value': 46.45, 'unit': '%'}"
+2025-05-23T17:23:40.913279,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:23:40.914277,H001,46.45,%
+2025-05-23T17:23:40.915303,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:23:40.915303', 'value': 2484.48, 'unit': 'lx'}"
+2025-05-23T17:23:40.916277,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:23:40.916277,NETWORK,0,ERROR,ERROR,Błąd (próba 1): [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście
+2025-05-23T17:23:41.417897,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:23:41.437044,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:23:41.438010,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 2): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:23:40.915303', 'value': 2484.48, 'unit': 'lx'}"
+2025-05-23T17:23:41.443001,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:23:41.443001,L001,2484.48,lx
+2025-05-23T17:23:41.443001,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:23:41.443001', 'value': 351.71, 'unit': 'AQI'}"
+2025-05-23T17:23:41.444017,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:23:41.444017,NETWORK,0,ERROR,ERROR,Błąd (próba 1): [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście
+2025-05-23T17:23:41.944847,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:23:41.967499,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:23:41.969504,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 2): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:23:41.443001', 'value': 351.71, 'unit': 'AQI'}"
+2025-05-23T17:23:41.973446,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:23:41.973446,AQ001,351.71,AQI
+2025-05-23T17:23:42.974677,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:23:42.974677', 'value': 19.55, 'unit': '°C'}"
+2025-05-23T17:23:42.976676,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:23:42.977676,NETWORK,0,ERROR,ERROR,Błąd (próba 1): [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście
+2025-05-23T17:23:43.480156,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:23:43.492299,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:23:43.493263,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 2): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:23:42.974677', 'value': 19.55, 'unit': '°C'}"
+2025-05-23T17:23:43.498260,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:23:43.499257,T001,19.55,°C
+2025-05-23T17:23:43.501299,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:23:43.501299', 'value': 46.69, 'unit': '%'}"
+2025-05-23T17:23:43.502299,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:23:43.503305,NETWORK,0,ERROR,ERROR,Błąd (próba 1): [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście
+2025-05-23T17:23:44.005796,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:23:44.021246,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:23:44.022213,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 2): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:23:43.501299', 'value': 46.69, 'unit': '%'}"
+2025-05-23T17:23:44.027203,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:23:44.029246,H001,46.69,%
+2025-05-23T17:23:44.030246,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:23:44.030246', 'value': 2516.94, 'unit': 'lx'}"
+2025-05-23T17:23:44.032255,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:23:44.033246,NETWORK,0,ERROR,ERROR,Błąd (próba 1): [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście
+2025-05-23T17:23:44.535155,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:23:44.551293,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:23:44.552356,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 2): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:23:44.030246', 'value': 2516.94, 'unit': 'lx'}"
+2025-05-23T17:23:44.557312,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:23:44.558356,L001,2516.94,lx
+2025-05-23T17:23:44.559316,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:23:44.559316', 'value': 352.77, 'unit': 'AQI'}"
+2025-05-23T17:23:44.560316,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:23:44.561302,NETWORK,0,ERROR,ERROR,Błąd (próba 1): [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście
+2025-05-23T17:23:45.062543,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:23:45.064539,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:23:45.066541,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 2): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:23:44.559316', 'value': 352.77, 'unit': 'AQI'}"
+2025-05-23T17:23:45.071541,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:23:45.072548,AQ001,352.77,AQI
+2025-05-23T17:23:46.075416,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:23:46.075416', 'value': 20.53, 'unit': '°C'}"
+2025-05-23T17:23:46.075416,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:23:46.076321,NETWORK,0,ERROR,ERROR,Błąd (próba 1): [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście
+2025-05-23T17:23:46.576847,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:23:46.576847,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:23:46.577815,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 2): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:23:46.075416', 'value': 20.53, 'unit': '°C'}"
+2025-05-23T17:23:46.578817,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:23:46.578817,T001,20.53,°C
+2025-05-23T17:23:46.578817,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:23:46.578817', 'value': 44.98, 'unit': '%'}"
+2025-05-23T17:23:46.579818,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:23:46.579818,NETWORK,0,ERROR,ERROR,Błąd (próba 1): [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście
+2025-05-23T17:23:47.081073,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:23:47.099428,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:23:47.099428,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 2): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:23:46.578817', 'value': 44.98, 'unit': '%'}"
+2025-05-23T17:23:47.101445,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:23:47.101445,H001,44.98,%
+2025-05-23T17:23:47.101445,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:23:47.101445', 'value': 2556.4, 'unit': 'lx'}"
+2025-05-23T17:23:47.102428,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:23:47.102428,NETWORK,0,ERROR,ERROR,Błąd (próba 1): [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście
+2025-05-23T17:23:47.604051,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:23:47.626046,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:23:47.626046,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 2): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:23:47.101445', 'value': 2556.4, 'unit': 'lx'}"
+2025-05-23T17:23:47.627251,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:23:47.627251,L001,2556.4,lx
+2025-05-23T17:23:47.628262,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:23:47.628262', 'value': 358.16, 'unit': 'AQI'}"
+2025-05-23T17:23:47.628262,SYSTEM,0.0,LOG,INFO,Połączenie zamknięte.
+2025-05-23T17:23:47.628262,NETWORK,0,ERROR,ERROR,Błąd (próba 1): [WinError 10053] Nawiązane połączenie zostało przerwane przez oprogramowanie zainstalowane w komputerze-hoście
+2025-05-23T17:23:48.130351,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:23:48.142351,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:23:48.144308,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 2): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:23:47.628262', 'value': 358.16, 'unit': 'AQI'}"
+2025-05-23T17:23:48.148297,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:23:48.148297,AQ001,358.16,AQI
+----- KONIEC SESJI -----
+2025-05-23T17:27:04.928498,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:27:04.928498,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:27:04.929474,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:27:04.929474', 'value': 28.0, 'unit': '°C'}"
+2025-05-23T17:27:04.930474,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:27:04.931503,T001,28.0,°C
+2025-05-23T17:27:04.931503,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:27:04.931503', 'value': 53.46, 'unit': '%'}"
+2025-05-23T17:27:04.932477,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:27:04.933473,H001,53.46,%
+2025-05-23T17:27:04.933473,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:27:04.933473', 'value': 7959.87, 'unit': 'lx'}"
+2025-05-23T17:27:04.934473,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:27:04.934473,L001,7959.87,lx
+2025-05-23T17:27:04.935473,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:27:04.935473', 'value': 84.53, 'unit': 'AQI'}"
+2025-05-23T17:27:04.936473,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:27:04.936473,AQ001,84.53,AQI
+2025-05-23T17:27:05.938463,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:27:05.938463', 'value': 27.46, 'unit': '°C'}"
+2025-05-23T17:27:05.939464,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:27:05.939464,T001,27.46,°C
+2025-05-23T17:27:05.940465,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:27:05.940465', 'value': 54.89, 'unit': '%'}"
+2025-05-23T17:27:05.941465,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:27:05.941465,H001,54.89,%
+2025-05-23T17:27:05.941465,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:27:05.941465', 'value': 7972.84, 'unit': 'lx'}"
+2025-05-23T17:27:05.942465,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:27:05.943466,L001,7972.84,lx
+2025-05-23T17:27:05.943466,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:27:05.943466', 'value': 88.36, 'unit': 'AQI'}"
+2025-05-23T17:27:05.944465,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:27:05.944465,AQ001,88.36,AQI
+2025-05-23T17:27:06.945394,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:27:06.945394', 'value': 27.54, 'unit': '°C'}"
+2025-05-23T17:27:06.949422,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:27:06.950469,T001,27.54,°C
+2025-05-23T17:27:06.951468,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:27:06.951468', 'value': 55.32, 'unit': '%'}"
+2025-05-23T17:27:06.954417,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:27:06.955417,H001,55.32,%
+2025-05-23T17:27:06.956452,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:27:06.956452', 'value': 7888.8, 'unit': 'lx'}"
+2025-05-23T17:27:06.959409,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:27:06.959409,L001,7888.8,lx
+2025-05-23T17:27:06.959409,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:27:06.959409', 'value': 93.28, 'unit': 'AQI'}"
+2025-05-23T17:27:06.961410,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:27:06.961410,AQ001,93.28,AQI
+----- KONIEC SESJI -----
+2025-05-23T17:28:22.961253,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:28:22.962252,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:28:22.962252,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:28:22.962252', 'value': 23.43, 'unit': '°C'}"
+2025-05-23T17:28:22.963282,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:28:22.964253,T001,23.43,°C
+2025-05-23T17:28:22.964253,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:28:22.964253', 'value': 73.03, 'unit': '%'}"
+2025-05-23T17:28:22.965254,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:28:22.965254,H001,73.03,%
+2025-05-23T17:28:22.966253,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:28:22.966253', 'value': 1144.5, 'unit': 'lx'}"
+2025-05-23T17:28:22.967253,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:28:22.967253,L001,1144.5,lx
+2025-05-23T17:28:22.967253,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:28:22.967253', 'value': 500, 'unit': 'AQI'}"
+2025-05-23T17:28:22.968253,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:28:22.969287,AQ001,500,AQI
+2025-05-23T17:28:23.970132,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:28:23.970132', 'value': 23.75, 'unit': '°C'}"
+2025-05-23T17:28:23.971102,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:28:23.972127,T001,23.75,°C
+2025-05-23T17:28:23.972127,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:28:23.972127', 'value': 73.15, 'unit': '%'}"
+2025-05-23T17:28:23.973121,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:28:23.974102,H001,73.15,%
+2025-05-23T17:28:23.974102,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:28:23.974102', 'value': 1209.74, 'unit': 'lx'}"
+2025-05-23T17:28:23.975102,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:28:23.975102,L001,1209.74,lx
+2025-05-23T17:28:23.976121,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:28:23.976121', 'value': 500, 'unit': 'AQI'}"
+2025-05-23T17:28:23.977102,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:28:23.977102,AQ001,500,AQI
+2025-05-23T17:28:24.978667,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:28:24.978667', 'value': 23.59, 'unit': '°C'}"
+2025-05-23T17:28:24.983616,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:28:24.984621,T001,23.59,°C
+2025-05-23T17:28:24.986618,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:28:24.985621', 'value': 73.14, 'unit': '%'}"
+2025-05-23T17:28:24.990615,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:28:24.991615,H001,73.14,%
+2025-05-23T17:28:24.992614,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:28:24.992614', 'value': 1109.98, 'unit': 'lx'}"
+2025-05-23T17:28:24.995613,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:28:24.995613,L001,1109.98,lx
+2025-05-23T17:28:24.995613,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:28:24.995613', 'value': 492.51, 'unit': 'AQI'}"
+2025-05-23T17:28:24.997609,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:28:24.998634,AQ001,492.51,AQI
+----- KONIEC SESJI -----
+2025-05-23T17:37:13.090933,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:37:13.091962,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:37:13.091962,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:37:13.091962', 'value': -2.29, 'unit': '°C'}"
+2025-05-23T17:37:13.093932,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:37:13.093932,T001,-2.29,°C,,
+2025-05-23T17:37:13.093932,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:37:13.093932', 'value': 59.85, 'unit': '%'}"
+2025-05-23T17:37:13.095932,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:37:13.095932,H001,59.85,%,,
+2025-05-23T17:37:13.095932,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:37:13.095932', 'value': 55.8, 'unit': 'lx'}"
+2025-05-23T17:37:13.096932,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:37:13.096932,L001,55.8,lx,,
+2025-05-23T17:37:13.097958,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:37:13.097958', 'value': 499.27, 'unit': 'AQI'}"
+2025-05-23T17:37:13.098930,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:37:13.098930,AQ001,499.27,AQI,,
+2025-05-23T17:37:14.100525,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:37:14.100525', 'value': -4.18, 'unit': '°C'}"
+2025-05-23T17:37:14.101526,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:37:14.101526,T001,-4.18,°C,,
+2025-05-23T17:37:14.101526,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:37:14.101526', 'value': 61.83, 'unit': '%'}"
+2025-05-23T17:37:14.102525,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:37:14.103528,H001,61.83,%,,
+2025-05-23T17:37:14.103528,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:37:14.103528', 'value': 0, 'unit': 'lx'}"
+2025-05-23T17:37:14.104527,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:37:14.104527,L001,0,lx,,
+2025-05-23T17:37:14.104527,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:37:14.104527', 'value': 500, 'unit': 'AQI'}"
+2025-05-23T17:37:14.105527,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:37:14.105527,AQ001,500,AQI,,
+2025-05-23T17:37:15.107305,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:37:15.107305', 'value': -3.62, 'unit': '°C'}"
+2025-05-23T17:37:15.111296,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:37:15.112309,T001,-3.62,°C,,
+2025-05-23T17:37:15.113309,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:37:15.113309', 'value': 61.29, 'unit': '%'}"
+2025-05-23T17:37:15.118310,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:37:15.119268,H001,61.29,%,,
+2025-05-23T17:37:15.120309,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:37:15.120309', 'value': 0, 'unit': 'lx'}"
+2025-05-23T17:37:15.124263,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:37:15.125265,L001,0,lx,,
+2025-05-23T17:37:15.126310,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:37:15.126310', 'value': 500, 'unit': 'AQI'}"
+2025-05-23T17:37:15.130299,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:37:15.131291,AQ001,500,AQI,,
+----- KONIEC SESJI -----
+2025-05-23T17:41:10.842648,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-23T17:41:10.843614,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-23T17:41:10.843614,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:41:10.843614', 'value': 7.73, 'unit': '°C'}"
+2025-05-23T17:41:10.845615,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:41:10.845615,T001,7.73,°C,,
+2025-05-23T17:41:10.845615,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:41:10.845615', 'value': 43.51, 'unit': '%'}"
+2025-05-23T17:41:10.847614,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:41:10.847614,H001,43.51,%,,
+2025-05-23T17:41:10.847614,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:41:10.847614', 'value': 200, 'unit': 'lx'}"
+2025-05-23T17:41:10.848614,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:41:10.849614,L001,200,lx,,
+2025-05-23T17:41:10.849614,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:41:10.849614', 'value': 119.81, 'unit': 'AQI'}"
+2025-05-23T17:41:10.850614,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:41:10.850614,AQ001,119.81,AQI,,
+2025-05-23T17:41:11.851932,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:41:11.851932', 'value': 7.27, 'unit': '°C'}"
+2025-05-23T17:41:11.852847,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:41:11.853845,T001,7.27,°C,,
+2025-05-23T17:41:11.853845,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:41:11.853845', 'value': 43.07, 'unit': '%'}"
+2025-05-23T17:41:11.854847,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:41:11.855845,H001,43.07,%,,
+2025-05-23T17:41:11.855845,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:41:11.855845', 'value': 193.42, 'unit': 'lx'}"
+2025-05-23T17:41:11.857846,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:41:11.857846,L001,193.42,lx,,
+2025-05-23T17:41:11.857846,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:41:11.857846', 'value': 111.78, 'unit': 'AQI'}"
+2025-05-23T17:41:11.859845,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:41:11.859845,AQ001,111.78,AQI,,
+2025-05-23T17:41:12.861399,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'T001', 'timestamp': '2025-05-23T17:41:12.861399', 'value': 9.04, 'unit': '°C'}"
+2025-05-23T17:41:12.863349,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:41:12.863349,T001,9.04,°C,,
+2025-05-23T17:41:12.863349,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'H001', 'timestamp': '2025-05-23T17:41:12.863349', 'value': 42.52, 'unit': '%'}"
+2025-05-23T17:41:12.865370,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:41:12.865370,H001,42.52,%,,
+2025-05-23T17:41:12.865370,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'L001', 'timestamp': '2025-05-23T17:41:12.865370', 'value': 184.67, 'unit': 'lx'}"
+2025-05-23T17:41:12.867359,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:41:12.867359,L001,184.67,lx,,
+2025-05-23T17:41:12.867359,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'AQ001', 'timestamp': '2025-05-23T17:41:12.867359', 'value': 106.85, 'unit': 'AQI'}"
+2025-05-23T17:41:12.869345,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-23T17:41:12.869345,AQ001,106.85,AQI,,
+----- KONIEC SESJI -----

@@ -1,0 +1,40 @@
+timestamp,sensor_id,value,unit,level,message
+2025-05-25T13:53:43.713819,SYSTEM,0.0,LOG,INFO,Łączenie z 127.0.0.1:8081...
+2025-05-25T13:53:43.714851,SYSTEM,0.0,LOG,INFO,Połączenie nawiązane.
+2025-05-25T13:53:43.715818,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'T001', 'timestamp': '2025-05-25T13:53:43.715818', 'value': 8.0, 'unit': '°C'}"
+2025-05-25T13:53:43.718818,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-25T13:53:43.718818,T001,8.0,°C,,
+2025-05-25T13:53:43.718818,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'H001', 'timestamp': '2025-05-25T13:53:43.718818', 'value': 74.9, 'unit': '%'}"
+2025-05-25T13:53:43.720819,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-25T13:53:43.720819,H001,74.9,%,,
+2025-05-25T13:53:43.721820,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'L001', 'timestamp': '2025-05-25T13:53:43.720819', 'value': 6.81, 'unit': 'lx'}"
+2025-05-25T13:53:43.722820,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-25T13:53:43.722820,L001,6.81,lx,,
+2025-05-25T13:53:43.722820,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'AQ001', 'timestamp': '2025-05-25T13:53:43.722820', 'value': 349.37, 'unit': 'AQI'}"
+2025-05-25T13:53:43.724230,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-25T13:53:43.725212,AQ001,349.37,AQI,,
+2025-05-25T13:53:44.726426,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'T001', 'timestamp': '2025-05-25T13:53:44.726426', 'value': 9.17, 'unit': '°C'}"
+2025-05-25T13:53:44.731422,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-25T13:53:44.734420,T001,9.17,°C,,
+2025-05-25T13:53:44.736421,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'H001', 'timestamp': '2025-05-25T13:53:44.736421', 'value': 72.96, 'unit': '%'}"
+2025-05-25T13:53:44.740416,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-25T13:53:44.741425,H001,72.96,%,,
+2025-05-25T13:53:44.742418,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'L001', 'timestamp': '2025-05-25T13:53:44.742418', 'value': 0, 'unit': 'lx'}"
+2025-05-25T13:53:44.745416,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-25T13:53:44.746417,L001,0,lx,,
+2025-05-25T13:53:44.746417,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'AQ001', 'timestamp': '2025-05-25T13:53:44.746417', 'value': 350.83, 'unit': 'AQI'}"
+2025-05-25T13:53:44.748418,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-25T13:53:44.749414,AQ001,350.83,AQI,,
+2025-05-25T13:53:45.751627,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'T001', 'timestamp': '2025-05-25T13:53:45.751627', 'value': 8.27, 'unit': '°C'}"
+2025-05-25T13:53:45.752629,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-25T13:53:45.753629,T001,8.27,°C,,
+2025-05-25T13:53:45.753629,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'H001', 'timestamp': '2025-05-25T13:53:45.753629', 'value': 73.91, 'unit': '%'}"
+2025-05-25T13:53:45.754627,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-25T13:53:45.755627,H001,73.91,%,,
+2025-05-25T13:53:45.755627,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'L001', 'timestamp': '2025-05-25T13:53:45.755627', 'value': 22.56, 'unit': 'lx'}"
+2025-05-25T13:53:45.756628,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-25T13:53:45.757628,L001,22.56,lx,,
+2025-05-25T13:53:45.757628,NETWORK,0,STATUS,INFO,"Wysyłanie pakietu (próba 1): {'sensor_id': 'AQ001', 'timestamp': '2025-05-25T13:53:45.757628', 'value': 340.89, 'unit': 'AQI'}"
+2025-05-25T13:53:45.759627,NETWORK,0,STATUS,INFO,ACK otrzymany
+2025-05-25T13:53:45.759627,AQ001,340.89,AQI,,
+----- KONIEC SESJI -----
