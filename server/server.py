@@ -24,12 +24,13 @@ class NetworkServer:
         self.host = "0.0.0.0"
         self.running = False
         self.server_socket = None
+        self.on_data_received = None
 
     def _load_config(self, config_path: str) -> dict:
         """Wczytuje konfigurację z pliku YAML."""
         try:
             with open(config_path, "r") as f:
-                config = yaml.safe_load(f)  # Wczytaj CAŁY plik, nie tylko sekcję 'server'
+                config = yaml.safe_load(f)
                 return config
         except FileNotFoundError:
             return {}
@@ -57,7 +58,7 @@ class NetworkServer:
     def _handle_client(self, client_socket) -> None:
         """Przetwarzaj wszystkie wiadomości w jednym połączeniu."""
         try:
-            client_socket.settimeout(30.0)  # Zwiększ timeout
+            client_socket.settimeout(30.0)
             buffer = b""
 
             while True:
@@ -78,6 +79,9 @@ class NetworkServer:
 
                         data = json.loads(decoded)
                         self._print_data(data)
+
+                        if self.on_data_received and callable(self.on_data_received):
+                            self.on_data_received(data)
 
                         # Wyślij ACK
                         ack = json.dumps({"status": "ok"}) + "\n"
