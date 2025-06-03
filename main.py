@@ -48,7 +48,7 @@ def main():
     air_quality_sensor.register_callback(logger.log_reading)
 
     print("Symulacja odczytów czujników:")
-    for _ in range(3):
+    for _ in range(10):
         temp = temp_sensor.read_value()
         hum = humidity_sensor.read_value()
         light = light_sensor.read_value()
@@ -60,7 +60,7 @@ def main():
     # Zamknięcie loggera
     logger.stop()
 
-
+    '''
     # Ustal zakres dat do odczytu (np. ostatnie 2 dni)
     end = datetime.now()
     start = end - timedelta(minutes=5)
@@ -68,7 +68,7 @@ def main():
     print("\nOdczyt z plików logów:")
     for entry in logger.read_logs(start, end):
         print(entry)
-
+    '''
 
     # Zamknięcie połączenia sieciowego
     client.close()
